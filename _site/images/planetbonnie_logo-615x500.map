@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+
+<img src="/home/mmm/projects/planetbonnie/web/public/images/planetbonnie_logo-615x500.jpg">
+<map name="unnamed">
+  <area shape="circle" href="6" coords="50,354,52" />
+  <area shape="circle" href="5" coords="409,446,52" />
+  <area shape="circle" href="4" coords="561,280,53" />
+  <area shape="circle" href="3" coords="470,105,53" />
+  <area shape="circle" href="2" coords="234,49,50" />
+  <area shape="circle" href="1" coords="90,131,50" />
+</map></body>
+</html>
